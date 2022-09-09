@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cast/Pratchett/Pratchett.md",
-            "mode": "preview",
-            "source": true
+            "file": "Sessions/Session 1 - How the Garden Grows.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#faction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cast/Pratchett/Pratchett.md",
+                "file": "Sessions/Session 1 - How the Garden Grows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cast/Pratchett/Pratchett.md",
+                "file": "Sessions/Session 1 - How the Garden Grows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cast/Pratchett/Pratchett.md"
+                "file": "Sessions/Session 1 - How the Garden Grows.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "f3f67461846bf014",
   "lastOpenFiles": [
-    "Sessions/Session 1 - How the Garden Grows.md",
-    "Cast/Clementine/Clementine.md",
-    "Cast/Pratchett/Pratchett.md",
-    "Cast/Sargasso/Sargasso.md",
-    "Cast/Dr. Oberon/Dr. Oberon.md",
-    "Cast/Pratchett/Known Associates/Fitz.md",
-    "Cast/Sargasso/Known Associates/Georgie.md",
-    "Cast/Kai Wairua/Kai Wairua.md",
-    "Cast/Kai Wairua/Known Associates/Grist.md",
-    "Personae Dramatis/Lord Rowan.md"
+    "Personae Dramatis/Lord Rowan.md",
+    "Factions/Lord Scurlock.md",
+    "Factions/Order of the Eel.md",
+    "Factions/The Circle of the Flame.md",
+    "Factions/The Gray Cloaks.md",
+    "Factions/The Grinders.md",
+    "Factions/The Lampblacks.md",
+    "Factions/The Unseen.md",
+    "Factions/The Wraiths.md",
+    "Cast/Clementine/Clementine.md"
   ]
 }
