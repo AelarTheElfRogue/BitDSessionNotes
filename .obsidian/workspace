@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "2de3df6fe4177f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f67461846bf014",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cast/Pratchett/Pratchett.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8f2020541813e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6268a43a924e9b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8d10348f6e8dee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2147fbb0006c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91fa3bfa62becba8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d28ef0ccd4bc121",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b2bc42effcd946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e25b9d9b146e90da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cast/Pratchett/Pratchett.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b50cb9cd324a61d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cast/Pratchett/Pratchett.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54e773d2b30d32e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7bd4ef0aae23ff22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cast/Pratchett/Pratchett.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3f67461846bf014",
+  "lastOpenFiles": [
+    "Sessions/Session 1 - How the Garden Grows.md",
+    "Cast/Clementine/Clementine.md",
+    "Cast/Pratchett/Pratchett.md",
+    "Cast/Sargasso/Sargasso.md",
+    "Cast/Dr. Oberon/Dr. Oberon.md",
+    "Cast/Pratchett/Known Associates/Fitz.md",
+    "Cast/Sargasso/Known Associates/Georgie.md",
+    "Cast/Kai Wairua/Kai Wairua.md",
+    "Cast/Kai Wairua/Known Associates/Grist.md",
+    "Personae Dramatis/Lord Rowan.md"
+  ]
+}
