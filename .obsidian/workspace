@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 1 - How the Garden Grows.md",
+            "file": "Cast/Clementine/Clementine.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1 - How the Garden Grows.md",
+                "file": "Cast/Clementine/Clementine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1 - How the Garden Grows.md",
+                "file": "Cast/Clementine/Clementine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 1 - How the Garden Grows.md"
+                "file": "Cast/Clementine/Clementine.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "f3f67461846bf014",
   "lastOpenFiles": [
+    "Sessions/Session 1 - How the Garden Grows.md",
     "Personae Dramatis/Lord Rowan.md",
     "Factions/Lord Scurlock.md",
     "Factions/Order of the Eel.md",
@@ -138,7 +139,6 @@
     "Factions/The Grinders.md",
     "Factions/The Lampblacks.md",
     "Factions/The Unseen.md",
-    "Factions/The Wraiths.md",
-    "Cast/Clementine/Clementine.md"
+    "Factions/The Wraiths.md"
   ]
 }
