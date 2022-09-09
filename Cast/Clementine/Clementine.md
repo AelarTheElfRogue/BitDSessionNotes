@@ -1,10 +1,14 @@
 #dossier
 
-**Name:** Clementine *(unknown surname)* \ 
-**Alias:** None \ 
-**Role:** Cutter \ 
-**Known Vices:** Unknown \ 
-**Known Fears:** Unknown \ 
+**Name:** Clementine *(unknown surname)*
+
+**Alias:** None
+
+**Role:** Cutter
+
+**Known Vices:** Unknown
+
+**Known Fears:** Unknown
 
 **Known Associates:** Unknown
 

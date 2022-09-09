@@ -1,8 +1,11 @@
 #associate
 
 **Name:** Unknown
+
 **Alias:** Fitz
+
 **Role:** Counterfeiter
+
 **Known Vices:** Unknown
 
 **Known Associates:** [[Pratchett]]

@@ -1,9 +1,13 @@
 #npc
 
 **Name:** Lord Rowan *(first name unknown)*
+
 **Alias:** Lord Rowan
+
 **Role:** Minor Lord, Art Collector
+
 **Known Vices:** Stupor *(psychoactives)*
+
 **Known Fears:** Unknown
 
 **Known Associates:** Unknown

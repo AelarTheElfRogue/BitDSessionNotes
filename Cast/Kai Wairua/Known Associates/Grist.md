@@ -1,8 +1,11 @@
 #associate
 
 **Name:** Unknown
+
 **Alias:** Grist
+
 **Role:** Harbor Master
+
 **Known Vices:** Gambling
 
 **Known Associates:** [[Kai Wairua]]

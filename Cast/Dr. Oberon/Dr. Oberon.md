@@ -1,9 +1,13 @@
 #dossier 
 
 **Name:** Unknown
+
 **Alias:** Dr. Oberon *(presumed to be a fake name)*
+
 **Role:** Whisper
+
 **Known Vices:** Unknown
+
 **Known Fears:** Unknown
 
 **Known Associates:** Unknown
