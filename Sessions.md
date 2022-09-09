@@ -4,13 +4,13 @@
 #### *How the Garden Grows*
 
 Personae Dramatis
-- [[Order of the Eel]]
-- [[Fitz]]
-- [[Grist]]
-- [[Lord Rowan]]
+- Order of the Eel
+- Fitz
+- Grist
+- Lord Rowan
 
 ##### The Job
-[[Fitz]] approaches Pratchett about a simple swap job: replace a painting owned by Lord Rowan with a fake. 
+Fitz approaches Pratchett about a simple swap job: replace a painting owned by Lord Rowan with a fake. 
 
 ##### The Pay
 Fitz agrees to pay 6 coin for successfully delivering the real painting to him.
